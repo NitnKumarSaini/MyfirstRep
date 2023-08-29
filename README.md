@@ -1,2 +1,2 @@
 # MyfirstRep
-this is my first repository in github (version control)
+this is my first github (version control)
